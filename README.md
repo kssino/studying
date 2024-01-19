@@ -8,3 +8,4 @@ https://qiita.com/mohki7/items/c3f26916d79a0e3269cc
 - これで勉強する
 - https://datawokagaku.com/page/16/
 - add python review folder to this directory (2024/1/19)
+--  branch test
